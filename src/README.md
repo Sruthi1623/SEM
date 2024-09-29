@@ -9,3 +9,9 @@
 Failed again so - making the default branch as master and trying again.
 
 Failed again cause of Docker file
+
+## Yeah!! done it
+
+# Adding Build Badge
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Sruthi1623/SEM/main.yml?branch=master)
