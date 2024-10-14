@@ -24,7 +24,9 @@ To maintain a positive working environment, all team members are expected to:
 - Gracefully accept constructive feedback and provide feedback in a helpful, non-offensive manner.
 - Collaborate openly and honestly, sharing knowledge and resources.
 - Comply with all relevant laws and university regulations, including data privacy and confidentiality requirements.
-# anyone can hit maram at any time
+
+
+# anyone can hit Maram at any time
 
 ## **Unacceptable Behaviour**
 Unacceptable behaviours that will not be tolerated include:
